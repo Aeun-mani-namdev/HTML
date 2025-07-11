@@ -1,4 +1,4 @@
 class & id 
-<div id = "01"> Group 1 </div>  // it is are use to spacil tage
-<div class = "my-class"> Group 2  // it is used to group key
+<div id = "01"> Group 1 </div>  // it's use to spacil tag
+<div class = "my-class"> Group 2  // it's use to group tag
 </div>
